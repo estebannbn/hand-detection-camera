@@ -1,5 +1,5 @@
 # hand-detection-camera
-Utilizamos OpenCV y TensorFlow para generar un programa que detecte manos abiertas y capture fotos cuando estas se cierran.
+Utilizamos OpenCV y Mediapipe para generar un programa que detecte manos abiertas y capture fotos cuando estas se cierran.
 ## Instrucciones de instalación y uso
 * Debemos tener instalado Python.
 * Clonamos el repositorio.
